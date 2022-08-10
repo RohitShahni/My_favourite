@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/My_favourite/static/css/main.3d7d8210.css",
+    "main.js": "/My_favourite/static/js/main.b3bbd1c9.js",
+    "index.html": "/My_favourite/index.html",
+    "main.3d7d8210.css.map": "/My_favourite/static/css/main.3d7d8210.css.map",
+    "main.b3bbd1c9.js.map": "/My_favourite/static/js/main.b3bbd1c9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3d7d8210.css",
+    "static/js/main.b3bbd1c9.js"
+  ]
+}
