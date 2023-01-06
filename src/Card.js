@@ -1,9 +1,8 @@
 import React from "react";
 import Heading from "./Heading";
 import Images from "./Images";
-function Card(props){
-    // console.log(props);
 
+function Card(props){
     return(
   <>
       <div className="cards">
